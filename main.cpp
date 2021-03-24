@@ -1,4 +1,4 @@
-// Author - James Johnson & Ethan Tran
+// Author - Hamidreza Shirazi
 // Description: Hello World in C++
 //============================================================
 #include <iostream>
